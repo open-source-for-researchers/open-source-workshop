@@ -1,7 +1,7 @@
 # How to start contributing
 
 - How to find good starter issues so I can begin contributing?
-- Go to your favourite project libraries and look for guidess
+- Go to your favourite project libraries and look for guides
 - try the first-timers-only tag on GitHub
 - Participate in Hacktoberfest, the Mozilla Global Sprint, 24 Pull Requests (other?)
 - Students only: Participate in Google Summer of Code.

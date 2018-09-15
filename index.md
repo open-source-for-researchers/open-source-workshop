@@ -4,5 +4,7 @@
   - Define version control & discuss it purpose.  
 - [What makes an open source project good?](03-what-makes-an-open-source-project-good)
   - add readmes, running docs, contributor guidelines, etc.
-- [Additional resources](05-additional-resources)
+- [How to start contributing to open source](04-how-to-start-contributing-to-open-source)
+  - A good way to learn open project norms is by contributing to others' projects. Here's how to find ways to contribute.
+- [Additional resources](05-additional-resourcess)
   - excited by the thought of getting involved in the open scientific code community? Lots of good links to follow up.
