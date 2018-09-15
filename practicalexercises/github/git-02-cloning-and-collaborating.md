@@ -42,4 +42,8 @@ Now, if you look at the history tab, (top left in GitHub Desktop) you can see tw
 
 ## Save your repository to the Internet.
 
-Right now your work is only on your computer - it's neither open nor backed up yet. 
+Right now your work is only on your computer - it's neither open nor backed up yet.
+
+1. Along the top bar there should be a button that says "Publish repository". Click it!
+2. Untick the box that says "make this code private."
+3. Click "Publish repository". It may take a few moments to complete. 
