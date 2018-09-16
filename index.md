@@ -1,4 +1,5 @@
-## Open Scientific Code using Git and GitHub
+# Open Scientific Code using Git and GitHub  
+
 
 A collection of explanations and short practical exercises to help researchers learn more about version control and open source software.
 
