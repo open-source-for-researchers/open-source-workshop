@@ -40,6 +40,19 @@ Now, if you look at the history tab, (top left in GitHub Desktop) you can see tw
 2. If you take a look at the file now, you should see the lines you removed highlighted in red, and all new lines are highlighted in green. This is really handy when you have been making a lot of changes or writing notes. No more "FIX THIS" accidentally being saved in a commit! The representation of changes is also known as the 'diff' (short for difference).
 3. Once you're ready, type another summary message and save your commit.
 
-## Save your repository to the Internet.
+## Pushing and pulling to a remote source.
 
-Right now your work is only on your computer - it's neither open nor backed up yet. 
+Right now your work is only on your computer - it's neither open nor backed up yet. Let's publish it on GitHub.
+
+1. In GitHub desktop, you should see a "Publish Repository" in a bar along the top. Click it!
+2. Make sure you're happy with the repository name
+3. Untick the "Keep this repository private"
+4. Click "Publish repository".
+5. Go to [github.com](http://www.github.com) and navigate to your new repository. You should be able to see all the files and commits you made previously.
+6. On your computer, add another item to your to-do list, then save the file and commit it on GitHub Desktop. If you look at your repository on github.com, has it updated? (Hint: There's a button in GitHub Desktop you'll need to press in order to push it.)
+7. You can also edit files on GitHub directly (without using GitHub Desktop). As we've already learned, files don't automatically synchronise with your GitHub desktop client, so you'll need to fetch your changes in GitHub Desktop by clicking the "Fetch" button (this will tell you how many updates there have been, if any), and then click it a second time to pull the changes down onto your computer.
+
+### Extra things to try
+
+- Imagine you've made a mistake, and committed something you didn't intend to - maybe code that broke everything, or you added a file you didn't intend to add. You can revert commits - in GitHub Desktop, try right clicking on the commit in the history panel.
+- Ignore files. Sometimes there are files you don't want to commit to your repository. Examples might the the `.DS_Store` file automatically generated on Mac systems, or autosave backup files that some text generators add.  //TODO ADD DETAILS
