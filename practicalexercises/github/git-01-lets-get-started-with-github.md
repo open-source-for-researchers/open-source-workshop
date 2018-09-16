@@ -51,8 +51,3 @@ Right now your work is only on your computer - it's neither open nor backed up y
 5. Go to [github.com](http://www.github.com) and navigate to your new repository. You should be able to see all the files and commits you made previously.
 6. On your computer, add another item to your to-do list, then save the file and commit it on GitHub Desktop. If you look at your repository on github.com, has it updated? (Hint: There's a button in GitHub Desktop you'll need to press in order to push it.)
 7. You can also edit files on GitHub directly (without using GitHub Desktop). As we've already learned, files don't automatically synchronise with your GitHub desktop client, so you'll need to fetch your changes in GitHub Desktop by clicking the "Fetch" button (this will tell you how many updates there have been, if any), and then click it a second time to pull the changes down onto your computer.
-
-### Extra things to try
-
-- Imagine you've made a mistake, and committed something you didn't intend to - maybe code that broke everything, or you added a file you didn't intend to add. You can revert commits - in GitHub Desktop, try right clicking on the commit in the history panel.
-- Ignore files. Sometimes there are files you don't want to commit to your repository. Examples might the the `.DS_Store` file automatically generated on Mac systems, or autosave backup files that some text generators add.  //TODO ADD DETAILS
