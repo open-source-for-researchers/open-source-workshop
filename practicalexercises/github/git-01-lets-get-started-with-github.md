@@ -1,6 +1,9 @@
+[[<<PREVIOUS: What is version control]](../../02-what-is-version-control) -
+[[Table of Contents]](../../index) - [[NEXT: Cloning and collaborating>>]](git-02-cloning-and-collaborating)
+
 # Let's get started
 
-We'll be using GitHub. If you don't already have a GitHub account, please
+We'll be using [GitHub](http://www.github.com) and [GitHub Desktop](https://desktop.github.com/). If you don't already have a GitHub account, please
 register for one now at [github.com](http://www.github.com).
 
 Next, let's get started on some practical exercises.
@@ -51,3 +54,17 @@ Right now your work is only on your computer - it's neither open nor backed up y
 5. Go to [github.com](http://www.github.com) and navigate to your new repository. You should be able to see all the files and commits you made previously.
 6. On your computer, add another item to your to-do list, then save the file and commit it on GitHub Desktop. If you look at your repository on github.com, has it updated? (Hint: There's a button in GitHub Desktop you'll need to press in order to push it.)
 7. You can also edit files on GitHub directly (without using GitHub Desktop). As we've already learned, files don't automatically synchronise with your GitHub desktop client, so you'll need to fetch your changes in GitHub Desktop by clicking the "Fetch" button (this will tell you how many updates there have been, if any), and then click it a second time to pull the changes down onto your computer.
+
+### Minor note about the differences between Git, GitHub, and GitHub Desktop
+
+Git, Github Desktop, and Github are three separate things. Git is the system used for version control, but you don't have to use it with GitHub or GitHub desktop.
+
+
+**Git:** version control software. Usually accessed via the command line, or a client program.
+
+**GitHub:** a website that allows you to store your Git repositories online and makes it easy to collaborate with others. They also provide other services like issue (bug) tracking and wikis. Similar services are [GitLab](https://gitlab.com) and [BitBucket]https://bitbucket.org/.
+
+**GitHub Desktop:** A client for Git that uploads your work to GitHub. Another is  [SourceTree](https://www.sourcetreeapp.com/), and there's a [big list of clients on the git website](https://git-scm.com/download/gui/windows).
+
+[[<<PREVIOUS: What is version control]](../../02-what-is-version-control) -
+[[Table of Contents]](../../index) - [[NEXT: Cloning and collaborating>>]](git-02-cloning-and-collaborating)

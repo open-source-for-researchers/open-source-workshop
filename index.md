@@ -1,5 +1,5 @@
-# Open Scientific Code using Git and GitHub  
 
+# Open Scientific Code using Git and GitHub  
 
 A collection of explanations and short practical exercises to help researchers learn more about version control and open source software.
 
@@ -13,7 +13,7 @@ A collection of explanations and short practical exercises to help researchers l
         - Pushing and pulling changes.
     - [Practical exercise: Cloning and Collaborating](practical-exercises/github/git-02-cloning-and-collaborating)
         - Share a GitHub repository and collaborate with colleagues using pushes and pull requests.
-    - [Practical exercise: Website with GitHub pages](practical-exercises/github/git-02-cloning-and-collaborating)
+    - [Practical exercise: Website with GitHub pages](practical-exercises/github/git-03-websites-with-github-pages)
         - Still not sold on using GitHub? You can use it to make a website with relatively low effort
 4. [What makes an open source project good?](03-what-makes-an-open-source-project-good)
     - Learn to make your software useful for you and for others - add readmes, running docs, contributor guidelines, etc.

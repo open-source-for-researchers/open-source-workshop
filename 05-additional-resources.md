@@ -1,3 +1,5 @@
+[[<<PREVIOUS: How to start contributing to open source]](04-how-to-start-contributing-to-open-source) - [[Table of Contents]](index)
+
 # More resources to power-up your Git and open source work
 
 ## Mozilla Open Leadership training
@@ -16,3 +18,5 @@
 - [Google Summer of Code](https://summerofcode.withgoogle.com/) - many scientific / research projects participate.
   - Student? Learn how to work open source by contributing to an Open Source project for three months over the summer (students only): https://summerofcode.withgoogle.com/
   - Do you lead an open project? Apply to participate as a mentor organisation, or join an umbrella organisation.
+
+[[<<PREVIOUS: How to start contributing to open source]](04-how-to-start-contributing-to-open-source) - [[Table of Contents]](index)

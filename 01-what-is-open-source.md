@@ -1,3 +1,6 @@
+[[<<PREVIOUS: Table of Contents]](index) -
+[[NEXT: Cloning and collaborating>>]](practicalexercises/github/git-02-cloning-and-collaborating)
+
 # What is open source?
 
   _what do you think open source means?_
@@ -45,5 +48,8 @@ Some allow users of the code to do anything they like with their code - these ar
 
 Here are some ways to help you choose:
 
-- https://choosealicense.com/ - does what it says on the tin and helps you choose a licence.
-- https://tldrlegal.com/ - plain english explanations of licences in bullet form.
+- [https://choosealicense.com/](https://choosealicense.com/) - does what it says on the tin and helps you choose a licence.
+- [https://tldrlegal.com/](https://tldrlegal.com/) - plain english explanations of licences in bullet form.
+
+[[<<PREVIOUS: Table of Contents]](index) -
+[[NEXT: Cloning and collaborating>>]](practicalexercises/github/git-02-cloning-and-collaborating)

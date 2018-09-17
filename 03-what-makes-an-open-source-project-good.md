@@ -1,3 +1,6 @@
+[[<<PREVIOUS:More things to think about]](git-04-more-advanced-things-to-think-about) -
+[[Table of Contents]](index) - [[NEXT: How to start contributing to open source>>]](04-how-to-start-contributing-to-open-source)
+
 # What makes an open source project good and useful?
 
 Open source your own project (or tune up a project that's already open) - largely inspired by Mozilla materials
@@ -11,3 +14,6 @@ Open source your own project (or tune up a project that's already open) - largel
   - Code of Conduct!
   - How to cite my brilliant software
   - How to get DOIs for my software...
+
+[[<<PREVIOUS:More things to think about]](git-04-more-advanced-things-to-think-about) -
+[[NEXT: How to start contributing to open source>>]](04-how-to-start-contributing-to-open-source)
