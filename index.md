@@ -8,13 +8,15 @@ A collection of explanations and short practical exercises to help researchers l
 2. [What is version control?](02-what-is-version-control)
     - Define version control & discuss it purpose.  
 3. Practical exercises with Git & GitHub
-    - [Practical exercise: Let's get started with Git](practical-exercises/github/01-how-to-start-contributing-to-open-source)
+    - [Practical exercise: Let's get started with Git](practicalexercises/github/01-how-to-start-contributing-to-open-source)
         - Setting up a repository and uploading it
         - Pushing and pulling changes.
-    - [Practical exercise: Cloning and Collaborating](practical-exercises/github/git-02-cloning-and-collaborating)
+    - [Practical exercise: Cloning and Collaborating](practicalexercises/github/git-02-cloning-and-collaborating)
         - Share a GitHub repository and collaborate with colleagues using pushes and pull requests.
-    - [Practical exercise: Website with GitHub pages](practical-exercises/github/git-03-websites-with-github-pages)
+    - [Practical exercise: Website with GitHub pages](practicalexercises/github/git-03-websites-with-github-pages)
         - Still not sold on using GitHub? You can use it to make a website with relatively low effort
+    - [Practical exercise: Trying more advanced things](practicalexercises/github/git-04-more-advanced-things-to-think-about)
+        - Extra stuff to investigate when you're comfortable with the first few lessons
 4. [What makes an open source project good?](03-what-makes-an-open-source-project-good)
     - Learn to make your software useful for you and for others - add readmes, running docs, contributor guidelines, etc.
 5. [Getting started contributing to other projects](04-how-to-start-contributing-to-open-source)
