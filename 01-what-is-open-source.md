@@ -1,5 +1,5 @@
 [[<<PREVIOUS: Table of Contents]](index) -
-[[NEXT: Cloning and collaborating>>]](practicalexercises/github/git-02-cloning-and-collaborating)
+[[NEXT: What is version control?>>]](02-what-is-version-control)
 
 # What is open source?
 
@@ -52,4 +52,4 @@ Here are some ways to help you choose:
 - [https://tldrlegal.com/](https://tldrlegal.com/) - plain english explanations of licences in bullet form.
 
 [[<<PREVIOUS: Table of Contents]](index) -
-[[NEXT: Cloning and collaborating>>]](practicalexercises/github/git-02-cloning-and-collaborating)
+[[NEXT: What is version control?>>]](02-what-is-version-control)
