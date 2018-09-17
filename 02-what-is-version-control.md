@@ -1,5 +1,5 @@
 [[<<PREVIOUS: What is open source?]](01-what-is-open-source) -
-[[Table of Contents]](index) - [[NEXT: Let's get started with GitHub>>]](git-01-lets-get-started-with-github)
+[[Table of Contents]](index) - [[NEXT: Let's get started with GitHub>>]](/practicalexercises/github/git-01-lets-get-started-with-github)
 
 # What is version control?
 
@@ -25,4 +25,4 @@ Version control software allows you to effectively "save" your work at important
 - it provides offsite backups (so long as you push your work to a remote server). We've all heard stories of people who had their hard-drives corrupted or computers stolen before. With Git (or other version control) this never needs to happen again!
 
 [[<<PREVIOUS: What is open source?]](01-what-is-open-source) -
-[[Table of Contents]](index) - [[NEXT: Let's get started with GitHub>>]](git-01-lets-get-started-with-github)
+[[Table of Contents]](index) - [[NEXT: Let's get started with GitHub>>]](/practicalexercises/github/git-01-lets-get-started-with-github)
