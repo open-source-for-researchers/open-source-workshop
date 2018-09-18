@@ -1,6 +1,6 @@
 # How to start contributing to another project
 
-[[<<PREVIOUS: Making websites with GitHub Pages]](03-what-makes-an-open-source-project-good) -
+[[<<PREVIOUS: What makes an open source project good?]](03-what-makes-an-open-source-project-good) -
 [[Table of Contents]](index) - [[NEXT: Additional resources>>]](05-additional-resources)
 
 A good way to learn about working with git and open source projects is to contribute to someone else's project yourself. Here are a few ways to get started.
@@ -10,5 +10,5 @@ A good way to learn about working with git and open source projects is to contri
 - Participate in [Hacktoberfest](https://hacktoberfest.digitalocean.com/) (October), the [Mozilla Global Sprint](https://mozilla.github.io/global-sprint/) (May), and/or [24 Pull Requests](https://24pullrequests.com/) (December).
 - Students only: Participate in [Google Summer of Code](https://summerofcode.withgoogle.com/).
 
-[[<<PREVIOUS: Making websites with GitHub Pages]](03-what-makes-an-open-source-project-good) -
+[[<<PREVIOUS: What makes an open source project good?]](03-what-makes-an-open-source-project-good) -
 [[Table of Contents]](index) - [[NEXT: Additional resources>>]](05-additional-resources)
