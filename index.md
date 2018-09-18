@@ -8,7 +8,7 @@ A collection of explanations and short practical exercises to help researchers l
 2. [What is version control?](02-what-is-version-control)
     - Define version control & discuss it purpose.  
 3. Practical exercises with Git & GitHub
-    - [Practical exercise: Let's get started with Git](practicalexercises/github/01-how-to-start-contributing-to-open-source)
+    - [Practical exercise: Let's get started with Git](practicalexercises/github/git-01-lets-get-started-with-github)
         - Setting up a repository and uploading it
         - Pushing and pulling changes.
     - [Practical exercise: Cloning and Collaborating](practicalexercises/github/git-02-cloning-and-collaborating)
