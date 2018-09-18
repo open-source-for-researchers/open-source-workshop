@@ -21,5 +21,5 @@ A collection of explanations and short practical exercises to help researchers l
     - Learn to make your software useful for you and for others - add readmes, running docs, contributor guidelines, etc.
 5. [Getting started contributing to other projects](04-how-to-start-contributing-to-open-source)
     - A good way to learn open project norms is by contributing to other projects. Here's how to find ways to contribute.      
-6. [Additional resources](05-additional-resourcess)
+6. [Additional resources](05-additional-resources)
     - excited by the thought of getting involved in the open scientific code community? Lots of good links to follow up.
