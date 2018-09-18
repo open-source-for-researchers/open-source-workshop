@@ -1,7 +1,7 @@
+# How to start contributing to another project
+
 [[<<PREVIOUS: Making websites with GitHub Pages]](03-what-makes-an-open-source-project-good) -
 [[Table of Contents]](index) - [[NEXT: Additional resources>>]](05-additional-resources)
-
-# How to start contributing to another project
 
 A good way to learn about working with git and open source projects is to contribute to someone else's project yourself. Here are a few ways to get started.
 

@@ -1,7 +1,7 @@
+# Using GitHub to make a webpage
+
 [[<<PREVIOUS: Cloning and collaborating]](git-02-cloning-and-collaborating) -
 [[Table of Contents]](../../index) - [[NEXT: More things to think about>>]](git-04-more-advanced-things-to-think-about)
-
-# Using GitHub to make a webpage
 
 Still not convinced that GitHub is something you should be using? There's another great feature: They make it relatively straightforward to create a website for free, using [markdown](https://help.github.com/categories/writing-on-github/) and [GitHub pages](https://pages.github.com/). This site is written entirely in Markdown and hosted in GitHub - you can [browse the code yourself](https://github.com/open-source-for-researchers/open-source-workshop), and even fork it or make pull requests.
 

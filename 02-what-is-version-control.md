@@ -1,7 +1,7 @@
+# What is version control?
+
 [[<<PREVIOUS: What is open source?]](01-what-is-open-source) -
 [[Table of Contents]](index) - [[NEXT: Let's get started with GitHub>>]](practicalexercises/github/git-01-lets-get-started-with-github)
-
-# What is version control?
 
   Hands up - _who has heard of version control software?_  
   _What do you think it does?_

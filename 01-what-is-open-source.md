@@ -1,7 +1,7 @@
+# What is open source?
+
 [[<<PREVIOUS: Table of Contents]](index) -
 [[NEXT: What is version control?>>]](02-what-is-version-control)
-
-# What is open source?
 
   _what do you think open source means?_
 

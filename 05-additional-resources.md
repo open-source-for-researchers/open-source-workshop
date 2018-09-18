@@ -1,6 +1,6 @@
-[[<<PREVIOUS: How to start contributing to open source]](04-how-to-start-contributing-to-open-source) - [[Table of Contents]](index)
-
 # More resources to power-up your Git and open source work
+
+[[<<PREVIOUS: How to start contributing to open source]](04-how-to-start-contributing-to-open-source) - [[Table of Contents]](index)
 
 ## Mozilla Open Leadership training
  - online self-paced guide: https://mozilla.github.io/open-leadership-training-series/articles/readme/

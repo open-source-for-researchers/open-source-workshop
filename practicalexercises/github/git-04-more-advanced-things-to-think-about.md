@@ -1,9 +1,7 @@
-[[<<PREVIOUS: Making websites with GitHub Pages]](git-03-websites-with-github-pages) -
-[[Table of Contents]](../../index) - [[NEXT: What makes an open source project good?>>]](../../03-what-makes-an-open-source-project-good)
-
-
 # Extra things to try
 
+[[<<PREVIOUS: Making websites with GitHub Pages]](git-03-websites-with-github-pages) -
+[[Table of Contents]](../../index) - [[NEXT: What makes an open source project good?>>]](../../03-what-makes-an-open-source-project-good)
 
 ## Revert a commit
 
