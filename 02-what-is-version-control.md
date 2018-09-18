@@ -13,7 +13,7 @@ Version control software allows you to effectively "save" your work at important
 
 ## Some popular options:
 
-- GitHub https://github.com/
+- GitHub [https://github.com/](https://github.com/)
 - BitBucket [https://bitbucket.org/](https://bitbucket.org/)
 - GitLab [https://gitlab.com](https://gitlab.com)
 
