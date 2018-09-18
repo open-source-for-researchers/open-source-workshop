@@ -11,6 +11,7 @@
 - [Global Open Science Hardware (GOSH)](http://openhardware.science/) - a community and a conference that wants to make scientific hardware open source by 2025.
 - JOSS, the [Journal of Open Source Software](http://joss.theoj.org/) - if you’re making good quality research software, you deserve credit for it! You can publish relatively short papers for your open source research software, and/or review software, too.
 - [The Carpentries](https://software-carpentry.org/lessons/), especially the [Git Lesson](https://swcarpentry.github.io/git-novice/)
+- [The Code is Science Manifesto](https://codeisscience.github.io/manifesto/)
 
 ## Open source links
 - http://www.firsttimersonly.com/ try your own first contributions, then recruit others for your projects!
