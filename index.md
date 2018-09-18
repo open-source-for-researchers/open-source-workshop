@@ -1,5 +1,5 @@
 
-Open Scientific Code using Git and GitHub  
+# Open Scientific Code using Git and GitHub  
 
 A collection of explanations and short practical exercises to help researchers learn more about version control and open source software. Here are some [accompanying slides](https://docs.google.com/presentation/d/1NVV6z3DvKdICNxttSOXYy3Vl6jEY6gkZi3dWgWt6QrY/edit#slide=id.g41fb8f5587_0_50).
 

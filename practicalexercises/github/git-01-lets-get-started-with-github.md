@@ -8,7 +8,7 @@ register for one now at [github.com](http://www.github.com).
 
 Next, let's get started on some practical exercises.
 
-## Creating your first repository
+## Creating your first repository
 
 This process can be done with an existing project that isn't in git yet, or a
 new project. We'll start by creating a new repository to get the feel for things.
@@ -62,7 +62,7 @@ Git, Github Desktop, and Github are three separate things. Git is the system use
 
 **Git:** version control software. Usually accessed via the command line, or a client program.
 
-**GitHub:** a website that allows you to store your Git repositories online and makes it easy to collaborate with others. They also provide other services like issue (bug) tracking and wikis. Similar services are [GitLab](https://gitlab.com) and [BitBucket]https://bitbucket.org/.
+**GitHub:** a website that allows you to store your Git repositories online and makes it easy to collaborate with others. They also provide other services like issue (bug) tracking and wikis. Similar services are [GitLab](https://gitlab.com) and [BitBucket](https://bitbucket.org/).
 
 **GitHub Desktop:** A client for Git that uploads your work to GitHub. Another is  [SourceTree](https://www.sourcetreeapp.com/), and there's a [big list of clients on the git website](https://git-scm.com/download/gui/windows).
 
