@@ -23,7 +23,7 @@ _Italic_ text: `_Italic_`
 
 
 # Heading 1
-## Heading 2
+## Heading 2
 ### Heading 3
 
 ```
