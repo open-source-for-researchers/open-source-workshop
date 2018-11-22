@@ -1,10 +1,8 @@
-# Open Source Workshop
+# Open Source Workshop Sheffield
 
 ## 28 November 2018
 
 **Registration and event details:** https://www.eventbrite.co.uk/e/introduction-to-open-source-tickets-51296881353 
-
-Are you a researcher who writes code for your work, and would like to learn more about better software practises in open source software? This workshop will teach you the basics of version control using Git and GitHub. Once we're comfortable using Git to commit, pull, and push code, we'll discuss the basics of a good quality open source project. Finally, we'll work together on a collaborative repository to get experience working collaboratively on GitHub, and making your first steps towards contributing towards open source.
 
 ### Schedule: 
 
@@ -32,6 +30,7 @@ Are you a researcher who writes code for your work, and would like to learn more
    - review open source projects in your groups. 
       - Try and list things that make it easy to contribute
       - Are there any warning signs or things that could be made better? 
+      
 15:10-15:30 - Report back from group discussions and discuss aspects of high-quality open source software.
    
 15:30-16:00 - coffee break. 
@@ -42,5 +41,6 @@ Are you a researcher who writes code for your work, and would like to learn more
     - Within your group, create a shared repository and begin to add to it as a group. We'll have fun learning how to pull request, merge, and resolve merge conflicts! 
     
 16:30-16:45 - Further resources and more advanced exercises - taking it forward! 
+
 16:45-17:00 - Wrap up and Q&A
 
