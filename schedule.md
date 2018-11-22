@@ -18,7 +18,7 @@ Are you a researcher who writes code for your work, and would like to learn more
    - Break up into groups of 4-5, and take 2-3 cards from the [Open To Discussion](https://github.com/baricks/opentodiscussion/commit/7379a27aef4b3d5ba28b6eba79f5b5f9ad549bec) open source, open data, and open collaboration decks. 
    - Spend a few minutes discussing the issues on your cards. 
 
-14:00-14:20 - report back from groups
+14:00-14:20 - Report back from groups. Were any open source or open data related issues controversial?
 
 14:20-14:50 - Git basics - working on your own. [Slides 10-18](https://docs.google.com/presentation/d/1a2uBPu_P5LoyaGp9Q3Q0e8vp5hsUtonyWyUbzkXBdA4/edit#slide=id.g30e60a4b80_0_7)
 
