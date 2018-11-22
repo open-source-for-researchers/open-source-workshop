@@ -37,8 +37,8 @@
 
 16:00-16:30 - Git basics - collaborating with others
 
-    - [Practical exercise: Cloning and Collaborating](practicalexercises/github/git-02-cloning-and-collaborating)
-    - Within your group, create a shared repository and begin to add to it as a group. We'll have fun learning how to pull request, merge, and resolve merge conflicts! 
+   - [Practical exercise: Cloning and Collaborating](practicalexercises/github/git-02-cloning-and-collaborating)
+   - Within your group, create a shared repository and begin to add to it as a group. We'll have fun learning how to pull request, merge, and resolve merge conflicts! 
     
 16:30-16:45 - Further resources and more advanced exercises - taking it forward! 
 
