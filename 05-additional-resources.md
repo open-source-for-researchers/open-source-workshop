@@ -20,5 +20,17 @@
 - [Google Summer of Code](https://summerofcode.withgoogle.com/) - many scientific / research projects participate.
   - Student? Learn how to work open source by contributing to an Open Source project for three months over the summer (students only): https://summerofcode.withgoogle.com/ (Applications in March-April)
   - Do you lead an open project? Apply to participate as a mentor organisation, or join an umbrella organisation. (Applications in January)
+  
+## More on GitHub
+
+### Syncing forks
+
+- [GitHub docs](https://help.github.com/articles/merging-an-upstream-repository-into-your-fork/): Merging an upstream repository into your fork
+- [StackOverflow](https://stackoverflow.com/questions/41542640/how-to-synchronize-fork-with-original-github-project): How to synchronize fork with original GitHub project?
+
+### Good branching models
+
+- [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
+
 
 [[<<PREVIOUS: How to start contributing to open source]](04-how-to-start-contributing-to-open-source) - [[Table of Contents]](index)
