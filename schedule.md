@@ -18,7 +18,7 @@
 
 14:00-14:20 - Report back from groups. Were any open source or open data related issues controversial?
 
-14:20-14:50 - Git basics - working on your own. [Slides 10-18](https://docs.google.com/presentation/d/1a2uBPu_P5LoyaGp9Q3Q0e8vp5hsUtonyWyUbzkXBdA4/edit#slide=id.g30e60a4b80_0_7)
+14:20-14:50 - Git basics - working on your own. [Slides 11-19](https://docs.google.com/presentation/d/1a2uBPu_P5LoyaGp9Q3Q0e8vp5hsUtonyWyUbzkXBdA4/edit#slide=id.g30e60a4b80_0_7)
 
    - Follow along online: 
       - [What is version control?](02-what-is-version-control)
