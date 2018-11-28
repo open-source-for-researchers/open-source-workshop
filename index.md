@@ -28,7 +28,7 @@ A collection of explanations and short practical exercises to help researchers l
 
 If you're working on these in a group, you could also try these group exercises out. Break into groups of 4 to 7 people.
 
-1. [Discuss open source](group-exercises/01-discuss-open-source)
+1. [Discuss open source](group-activities/01-discuss-open-source)
     - Working openly with software and data: pros, cons, and pondering points.
-2. [Review open source projects](group-exercises/02-review-open-source-projects)
+2. [Review open source projects](group-activities/02-review-open-source-projects)
     - Look at an open source project you're interested in. Can you figure out how to contribute?
