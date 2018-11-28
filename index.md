@@ -23,3 +23,12 @@ A collection of explanations and short practical exercises to help researchers l
     - A good way to learn open project norms is by contributing to other projects. Here's how to find ways to contribute.      
 6. [Additional resources](05-additional-resources)
     - excited by the thought of getting involved in the open scientific code community? Lots of good links to follow up.
+
+## Group exercises
+
+If you're working on these in a group, you could also try these group exercises out. Break into groups of 4 to 7 people.
+
+1. [Discuss open source](01-discuss-open-source)
+    - Working openly with software and data: pros, cons, and pondering points.
+2. [Review open source projects](02-review-open-source-projects)
+    - Look at an open source project you're interested in. Can you figure out how to contribute?
