@@ -15,5 +15,5 @@ To participate in this workshop you should have GitHub Desktop and Atom installe
 
 ## Dates this has been delivered in-person
 
-2018-09-18: Polar Software Workshop, UCL 
-2018-11-28: Sheffield [see schedule](https://open-source-for-researchers.github.io/open-source-workshop/schedule) and slides 
+- 2018-09-18: Polar Software Workshop, UCL   
+- 2018-11-28: Sheffield [see schedule](https://open-source-for-researchers.github.io/open-source-workshop/schedule) and slides 
