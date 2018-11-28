@@ -1,8 +1,13 @@
 # Group Exercise - contributing
 
-## Look at an open source project
 
-Find a project (one you know about, or one from the list below). Make a note of the following points:
+- Nominate roles:
+   - One person to take notes - we'll be reporting back afterwards!
+   - A group chair / person to report back
+
+## Find a project
+
+Choose a project - this could be one you know about, or one from the list below. Make a note of the following points:
 
 1. If you wanted to contribute to them, could you figure out how?
 2. Try and list things that make it easy to contribute
