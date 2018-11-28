@@ -2,7 +2,7 @@
 
 ## 28 November 2018
 
-**Registration and event details:** https://www.eventbrite.co.uk/e/introduction-to-open-source-tickets-51296881353 
+**Registration and event details:** [https://www.eventbrite.co.uk/e/introduction-to-open-source-tickets-51296881353 ](EventBrite)
 
 ### Schedule: 
 
