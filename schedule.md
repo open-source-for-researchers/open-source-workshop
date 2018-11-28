@@ -2,14 +2,14 @@
 
 ## 28 November 2018
 
-**Registration and event details:** [https://www.eventbrite.co.uk/e/introduction-to-open-source-tickets-51296881353 ](EventBrite)
+**Registration and event details:** [Eventbrite](https://www.eventbrite.co.uk/e/introduction-to-open-source-tickets-51296881353 )
 
 ### Schedule: 
 
 13:00-13:20 - Welcome and introductions
    - Post-it note exercise: Write what you'd like to learn from this session & share with group. We'll keep the post-its and review towards the end of the session. 
 
-13:20-13:40 - What is open source? ([Slides 1-8](https://docs.google.com/presentation/d/1a2uBPu_P5LoyaGp9Q3Q0e8vp5hsUtonyWyUbzkXBdA4/edit#slide=id.p))
+13:20-13:40 - What is open source? ([Slides 1-9](https://docs.google.com/presentation/d/1a2uBPu_P5LoyaGp9Q3Q0e8vp5hsUtonyWyUbzkXBdA4/edit#slide=id.p))
    - [Follow along online - what is open source?](https://open-source-for-researchers.github.io/open-source-workshop/01-what-is-open-source)
 
 13:40-14:00 - Group activity: Working openly with software and data: pros, cons, and pondering points. 
