@@ -5,7 +5,8 @@
    - One person to take notes - we'll be reporting back afterwards!
    - A group chair / person to report back
 
-## Find a project
+
+## Find a project 
 
 Choose a project - this could be one you know about, or one from the list below. Make a note of the following points:
 
