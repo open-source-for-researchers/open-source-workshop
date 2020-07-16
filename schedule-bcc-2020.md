@@ -10,9 +10,9 @@
   - You can chat with people at your table or the general chat.
   - If you haven't already installed [GitHub Desktop](https://desktop.github.com/), now is a good time.
    - At-table exercise:
-    - In each group - nominate a scribe to take notes in our [group HackMD document](https://hackmd.io/@yoyehudi/BJ_riUAyP)
-    - Introductions - introduce yourself to the group and share what you'd like to learn from this session
-    - Scribe: note down the learning goals
+      - In each group - nominate a scribe to take notes in our [group HackMD document](https://hackmd.io/@yoyehudi/BJ_riUAyP)
+      - Introductions - introduce yourself to the group and share what you'd like to learn from this session
+      - Scribe: note down the learning goals
 
 #### 00:30-00:50 - What is open source? ([Slides 1-9](https://docs.google.com/presentation/d/1a2uBPu_P5LoyaGp9Q3Q0e8vp5hsUtonyWyUbzkXBdA4/edit#slide=id.p))
    - [Follow along online - what is open source?](https://open-source-for-researchers.github.io/open-source-workshop/01-what-is-open-source)
