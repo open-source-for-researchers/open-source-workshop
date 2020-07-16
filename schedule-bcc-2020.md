@@ -14,10 +14,10 @@
       - Introductions - introduce yourself to the group and share what you'd like to learn from this session
       - Scribe: note down the learning goals
 
-#### 00:30-00:50 - What is open source? ([Slides 1-9](https://docs.google.com/presentation/d/1a2uBPu_P5LoyaGp9Q3Q0e8vp5hsUtonyWyUbzkXBdA4/edit#slide=id.p))
+#### 00:30-00:50 - What is open source? ([Slides 1-9](https://docs.google.com/presentation/d/1oyn6ZaQ3rhF_34UV9iw1x0IpTP5zaY9Mq70DlWIr_Bc/edit#slide=id.p))
    - [Follow along online - what is open source?](https://open-source-for-researchers.github.io/open-source-workshop/01-what-is-open-source)
 
-#### 00:50-01:00 - Git basics - working on your own. [Slides 11-19](https://docs.google.com/presentation/d/1a2uBPu_P5LoyaGp9Q3Q0e8vp5hsUtonyWyUbzkXBdA4/edit#slide=id.g30e60a4b80_0_7)
+#### 00:50-01:00 - Git basics - working on your own. [Slides 11-19](https://docs.google.com/presentation/d/1oyn6ZaQ3rhF_34UV9iw1x0IpTP5zaY9Mq70DlWIr_Bc/edit#slide=id.g30e60a4b80_0_7)
 
 #### 01:00-01:15 Exercises:
    - Follow along online:
