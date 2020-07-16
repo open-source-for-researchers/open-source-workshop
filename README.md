@@ -15,6 +15,6 @@ To participate in this workshop you should have GitHub Desktop and Atom installe
 
 ## Dates this has been delivered in-person or virtually
 
-- 2020-07-17: [BCC2020](https://bcc2020.github.io/) - [see schedule and slides](https://open-source-for-researchers.github.io/open-source-workshop/schedule-bcc-2020) and slides
+- 2020-07-17: [BCC2020](https://bcc2020.github.io/) - [see schedule and slides](https://open-source-for-researchers.github.io/open-source-workshop/schedule-bcc-2020)
 - 2018-11-28: Sheffield [see schedule](https://open-source-for-researchers.github.io/open-source-workshop/schedule) and slides
 - 2018-09-18: Polar Software Workshop, UCL   
